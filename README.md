@@ -9,8 +9,10 @@ Note: Setup Instructions are displayed within main>Code>Setup Instructions.docx
 
 
 ## Visual Aid
-
-
+<p float="left">
+ <img src="images/Entire Design.png" width = "400" height="300" />
+</p>
+An image of the Novel MIDI Instrument with both keypads and base station assembled on the tripod boom mic stand.
 
 ## Credits
 - Team Members: Sean MacHaffie, Rohan Giridharan, Baron Li
